@@ -1,61 +1,125 @@
-# [Your Name] - Data Analysis Portfolio
+# Rashmini Yashodha - Tech Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains my professional portfolio showcasing my work in **Quality Assurance, Business Analysis, Data Analytics, and AI-driven solutions**.
 
-## About This Portfolio Template
+---
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+## 🚀 About This Portfolio
+
+This portfolio highlights my ability to:
+
+- Analyze and translate business requirements into technical solutions  
+- Design and implement QA processes and automation frameworks  
+- Perform data analysis and build dashboards for decision-making  
+- Develop real-world systems across healthcare, retail, and service domains  
+- Apply AI and NLP concepts to solve practical problems  
+
+---
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+### 🤖 AI-Enabled Spoken Tutor & Candidate Screening System  
+AI-driven solution designed to support personalized learning and improve HR screening efficiency using NLP and Agentic AI concepts.  
+**Tech:** Python, NLP, Microservices  
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+---
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### 🧪 Automated QA Framework  
+Developed a Selenium-based automation framework to improve regression testing efficiency and software reliability.  
+**Tech:** Java, Selenium WebDriver, Jenkins  
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+---
 
+### 📊 Customer Trends Data Analysis  
+Analyzed retail customer data to uncover patterns and support business decisions through dashboards and insights.  
+**Tech:** Python (Pandas), SQL, Power BI  
+
+---
+
+### 🛍️ Clothing E-Commerce Platform  
+Full-stack e-commerce system designed to enhance user experience and support small online businesses.  
+**Tech:** React, Node.js, SQL, Stripe API  
+
+---
+
+### 🚗 Vehicle Service Center Management System  
+Workflow-based system to optimize booking and operational processes in service centers.  
+**Tech:** MERN Stack, Flutter, Selenium  
+
+---
+
+### 🏥 Hospital Management System  
+System designed to streamline hospital operations including patient, appointment, and payment management.  
+**Tech:** C#.NET, SQL  
+
+---
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+### 💻 Programming & Development
+- Java, Python, JavaScript, C#, SQL  
+- HTML, CSS, React, Node.js  
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+### 🧪 Quality Assurance
+- Selenium WebDriver, TestNG  
+- Manual Testing, Regression Testing  
+- API Testing (Postman)  
+- Test Case Design & Defect Management  
 
-## 💡 How to Use This Template
+### 📊 Data Analytics
+- Python (Pandas), SQL  
+- Power BI Dashboarding  
+- Data Cleaning & EDA  
 
-Creating your own portfolio from this template is a simple, four-step process.
+### 📈 Business Analysis
+- Requirement Analysis  
+- Workflow Optimization  
+- User Stories & Use Cases  
+- Stakeholder Communication  
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+---
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+## 🌱 Currently Learning
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+- ISTQB Foundation Level (Software Testing)  
+- Advanced QA Automation & CI/CD  
+- Agentic AI & NLP Applications  
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+---
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+## 🏆 Achievements
+
+- 📄 IEEE Research Paper (Accepted – 2026)  
+- 🎤 Organizing Committee Member – 42nd National IT Conference  
+- 👩‍💼 Leadership Role – CSSL GenZ Chapter KDU  
+- 🏅 Merit Award – Cisco Technopreneur Challenge  
+- 📊 Kaggle Data Science Challenge Participant  
+
+---
+
+## 💡 How to Use This Portfolio
+
+### 1. Create Repository
+Use this template to create your own portfolio repository.
+
+### 2. GitHub Pages Setup
+Rename repository to:  
+`rashminiyashodha7.github.io`
+
+### 3. Customize
+Update:
+- Project details  
+- Images (add to `assets/images/`)  
+- CV (add to `assets/`)  
+
+### 4. Deploy
+Your portfolio will be live at:  
+👉 https://rashminiyashodha7.github.io  
+
+---
+
+## 📫 Contact Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/rashmini-yashodha-b19a61270/  
+- 💻 GitHub: https://github.com/rashminiyashodha7  
+- 📧 Email: rashminiyashoda5@gmail.com  
